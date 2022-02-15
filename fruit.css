@@ -397,4 +397,8 @@ html {
         max-width: 100%;
         margin: 20px 10px;
     }
+ .thumbnail img {
+        width: 150px;
+        height: 150px;
+    }
 }
