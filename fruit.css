@@ -15,19 +15,19 @@ html {
 }
 
 .background {
-    background: rgba(192, 177, 177, 0.7)url("../pic/pexels-lumn-1028599.jpg");
+    background: rgba(192, 177, 177, 0.7)url("pic/pexels-lumn-1028599.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background2 {
-    background: rgba(192, 177, 177, 0.7)url("../pic/heather-barnes-1yEXkH0UNMk-unsplash.jpg");
+    background: rgba(192, 177, 177, 0.7)url("pic/heather-barnes-1yEXkH0UNMk-unsplash.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background3 {
-    background: rgba(66, 63, 63, 0.7)url("../pic/pexels-pixabay-46174.jpg");
+    background: rgba(66, 63, 63, 0.7)url("pic/pexels-pixabay-46174.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
